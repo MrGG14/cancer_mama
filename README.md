@@ -1,1 +1,7 @@
-# cancer_mama Pablo Jorge Javi Nico
+Proyecto sobre Cancerde mama 
+
+Autores:
+- Pablo 
+- Jorge
+- Javi
+- Nico
