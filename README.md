@@ -1,4 +1,4 @@
-# Proyecto sobre Cancer de Mama
+# Proyecto sobre Cáncer de Mama
 
 Autores:
 - Pablo 
